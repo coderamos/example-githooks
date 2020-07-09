@@ -1,4 +1,4 @@
-# codefolio | GITHOOKS
+# example | REACT HOOKS
 
 ## About This Project
 
